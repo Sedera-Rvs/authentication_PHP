@@ -17,7 +17,7 @@ if(isset($_POST['inscrire'])){
         }
 
         echo $_SESSION['id'];
-        echo "fenohy kosa zoky anh"; 
+        echo "Verifier bien vos information"; 
     }
 }
 ?>

@@ -15,10 +15,10 @@ if(isset($_POST['inscrire'])){
 
             header('location:index.php');
         }else{
-            echo "Misy diso zoky anh";
+            echo "Verifier bien vos information";
         }
     }else{
-        echo "fenohy kosa zoky anh"; 
+        echo "Velliez bien verifier"; 
     }
 }
 ?>

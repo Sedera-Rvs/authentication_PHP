@@ -12,11 +12,11 @@ if(isset($_POST['valider'])){
             $_SESSION['mdp'] = $mdp_saisi;
             header('location:index.php');
         } else{
-            echo "misy diso.."; 
+            echo "error.."; 
         }
 
     } else{
-        echo "fenohy le champ tompoko";
+        echo "Velliez bien completer les champs";
     }
 }
 

@@ -13,7 +13,7 @@ if(!$_SESSION['mdp']){
     <title>index</title>
 </head>
 <body>
-    <h1>coucou Admin</h1>
+    <h1>Coucou Admin</h1>
     <a href="voire_membre.php">Voire les membres</a>
 </body>
 </html>
